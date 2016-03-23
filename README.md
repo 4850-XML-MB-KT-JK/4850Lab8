@@ -1,15 +1,16 @@
 #########
-XML Lab 7
+XML Lab 8
 #########
 
-This is the starter webapp for Lab 7
+This is the new and improved lab 7 also known as lab 8
 
 
 ************
 Team Members
 ************
-Khang Tran  
+Khang Tran - Acknowledged  
 Mark Batin 
+Johnny Kang
 
 ******************
 Coding Conventions
